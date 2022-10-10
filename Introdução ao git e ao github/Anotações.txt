@@ -1,0 +1,3 @@
+#comandos basicos git bash
+cd<pasta local> : se locomover pelas pastas e arquivos
+cd..            : Retorna a pasta anterior
